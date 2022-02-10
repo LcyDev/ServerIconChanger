@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerIconChanger">
+    <output-path>$USER_HOME$/Documents/Server/Minecraft/plugins</output-path>
+    <root id="archive" name="ServerIconChanger.jar">
+      <element id="module-output" name="ServerIconChanger.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

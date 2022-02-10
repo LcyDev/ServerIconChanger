@@ -1,0 +1,5 @@
+name: ServerIconChanger
+version: 1.0
+author: snap20lp
+
+main: de.snap20lp.servericonchanger.Main

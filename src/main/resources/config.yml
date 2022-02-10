@@ -1,0 +1,19 @@
+#Welcome to ServerIconChanger
+#ServerIcons are saved in 'plugins/ServerIconChanger/Icons'
+
+#Here you can configure the Settings for Server icons.
+
+#sawpMode - Describes how the Server Icon should be changed there are two options:
+#INORDER_MODE: Swaps between Server Icons in File order.
+#RANDOM_MODE: Chooses a Random Server Icon.
+swapMode: INORDER_MODE
+
+#swapTime - Describes when the Server Icon should be changed there are two options:
+#ONPING: Changes the Server Icon everytime when a Ping is received.
+#MILLIS_<TIME>: To Change the Server Icon when a Timer is reached. Example: MILLIS_15000 - Changes Every 15 Seconds the Server Icon.
+swapTime: MILLIS_15000
+
+#Prints everything out in Console.
+#If this is false errors are still print in Console.
+consoleOutput: true
+
